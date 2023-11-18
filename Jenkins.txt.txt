@@ -1,1 +1,7 @@
 Write down the topics you know in Jenkins
+
+1. What is jenkins?
+2. Why we need jenkins?
+3. to create free style project
+4. to create maven project
+
